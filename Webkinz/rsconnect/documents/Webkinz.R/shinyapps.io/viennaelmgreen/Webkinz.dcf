@@ -1,0 +1,12 @@
+name: Webkinz
+title: Webkinz
+username: viennaelmgreen
+account: viennaelmgreen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14059640
+bundleId: 9833961
+url: https://viennaelmgreen.shinyapps.io/Webkinz/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
